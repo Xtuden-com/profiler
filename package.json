@@ -59,7 +59,7 @@
     "@angular/platform-browser-dynamic": "^8.2.14",
     "@angular/router": "^8.2.14",
     "@ngrx/effects": "^8.6.0",
-    "@ngrx/store": "^8.6.0",
+    "@ngrx/store": "^8.6.1",
     "rxjs": "^6.5.4",
     "zone.js": "^0.9.1"
   }
